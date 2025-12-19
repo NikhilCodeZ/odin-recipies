@@ -9,4 +9,4 @@
  HTML 
 
  # What I Learned 
-  I learned about HTML by doing this project ,how elements are used according to their purpose like how to link web pages , how to show images on the web pages , how to write various type of texts or paragraphs on the pages 
+  I learned about HTML by doing this project ,how elements are used according to their purpose like how to link web pages , how to show images on the web pages , how to write various type of texts or paragraphs on the pages git 
